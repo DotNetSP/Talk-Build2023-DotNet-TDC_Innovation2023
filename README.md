@@ -17,7 +17,7 @@ Tecnologias abordadas: **.NET, ASP.NET Core, Visual Studio 2022, Visual Studio C
 
 Na pasta [**/img**](img/) estão outros prints do evento.
 
-Deixamos aqui nossos agradecimentos à **Stéfany Mazon** e à **Isabela Milhomem** pelo convite e por todo o apoio para que participássemos como palestrantes na **Sala Microsoft**.
+Deixamos aqui nossos agradecimentos à **Stéfany Mazon** e à **Isabela Milhomem** pelo convite à comunidade **.NET São Paulo** e por todo o apoio para que participássemos como palestrantes na **Sala Microsoft**.
 
 ---
 
